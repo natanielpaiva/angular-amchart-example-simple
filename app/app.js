@@ -7,9 +7,7 @@ angular.module('myApp', [
     'myApp.serialArea',
     'myApp.serialLine',
     'myApp.pie',
-    'myApp.amchartDirective.amchart',
-    'myApp.amchartDirective.pie',
-    'myApp.amchartDirective.serial'
+    'AngularAmChart'
 ]).config(['$routeProvider', function ($routeProvider) {
         $routeProvider.otherwise({redirectTo: '/serial-column'});
     }]);

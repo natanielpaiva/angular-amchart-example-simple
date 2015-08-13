@@ -6,6 +6,7 @@
   "dependencies": {
     "angular": "~1.4.0",
     "angular-route": "~1.4.0",
-    "amcharts": "~3.15.0"
+    "amcharts": "~3.15.0",
+    "angular-amchart":"~1.0.0"
   }
 }
