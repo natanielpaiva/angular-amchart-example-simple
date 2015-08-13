@@ -1,0 +1,13 @@
+{
+  "name": "angular-am-chart",
+  "description": "Um projeto para facilitar o uso da lib AmChart com o Angular",
+  "version": "0.0.0",
+  "homepage": "https://github.com/angular/angular-seed",
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-loader": "~1.4.0",
+    "angular-mocks": "~1.4.0",
+    "amcharts": "~3.15.0"
+  }
+}
